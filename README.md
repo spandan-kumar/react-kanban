@@ -12,7 +12,7 @@ A dynamic and responsive Kanban board built with React, allowing users to visual
 
 ## Live Demo
 
-[View the live demo here]((https://react-kanban-chi.vercel.app/))
+[View the live demo here](https://react-kanban-chi.vercel.app/)
 
 ## Installation
 
